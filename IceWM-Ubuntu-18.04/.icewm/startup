@@ -57,6 +57,9 @@ fi
 # y se olvida de ponerlo se cortarán las demás ordenes y no 
 # se lanzarán las demás aplicaciones 
 
+fbsetbg /home/wachin/github-2-wid/wachin/Diseños/Tux-Wallpaper/warty-final-ubuntu-1560x878px-Youtube.png &
+# Para poner el Wallpaper (fbsetbg es parte de icewm)
+
 sleep 5 &
 # Requerido para dar algo de tiempo a la barra de tareas de icewm para
 # iniciar antes que el resto
